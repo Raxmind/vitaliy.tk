@@ -729,7 +729,7 @@
 				content: '';
 				display: block;
 				position: absolute;
-				top: 50%;
+				top: 48%;
 				left: -3em;
 				width: calc(100% + 6em);
 				height: 1px;
