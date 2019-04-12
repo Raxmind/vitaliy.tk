@@ -163,7 +163,7 @@
 		}
 
 		a:hover {
-			color: #26798f;
+			color: #2e74bd;
 		}
 
 	strong, b {
@@ -176,6 +176,7 @@
 
 	p {
 		margin: 0 0 1.5em 0;
+		font-size: 1.02em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -538,7 +539,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						color: #26798f;
+						color: #2e74bd;
 					}
 
 					ul.icons li a:before {
@@ -547,7 +548,7 @@
 						left: 0;
 						width: inherit;
 						height: inherit;
-						font-size: 2rem;
+						font-size: 2.2rem;
 						line-height: inherit;
 						text-align: center;
 						text-indent: 0;
@@ -556,7 +557,7 @@
 			@media screen and (max-width: 480px) {
 
 				ul.icons li a:before {
-					font-size: 1.5rem;
+					font-size: 2rem;
 				}
 
 			}
